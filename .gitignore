@@ -1,0 +1,7 @@
+# Public CCVLD — chi file tai ve, khong key khong code
+*
+!.gitignore
+!CCVLD.exe
+!CCVLD.zip
+!version.txt
+!README.md
